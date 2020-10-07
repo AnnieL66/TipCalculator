@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ ] User can use the tip slider to select tip range from 10% to 25%
+- [ ] User can use the split slider to split the total amount by number of people
 
 ## Video Walkthrough
 
