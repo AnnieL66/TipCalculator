@@ -41,7 +41,7 @@ I challenged myself by adding a tip slider and split slider.
 
 ## License
 
-    Copyright [2020] []
+    Copyright [2020] [Yaxin Liu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
